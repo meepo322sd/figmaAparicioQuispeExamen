@@ -1,0 +1,39 @@
+*{
+    font-family: "Red Hat Display", sans-serif;
+    padding: 3px;
+    margin: 0;
+    box-sizing: border-box;
+  }
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #1e1e1e;
+}
+
+.tarjeta{
+    background-color: #303030;
+    border-radius: 10px;
+    padding: 20px;
+    width: 210px;
+}
+.tarjeta img{
+    border-radius: 50%;
+    float: right;
+    margin-top: -59px;
+    width: 31%;
+}
+.porc{
+    color: rgb(34, 202, 101);
+}
+.Numero{
+    color: aliceblue;
+}
+.subtitulo{
+    color: aliceblue;
+}
+.mes {
+    font-size: 10px;
+    color: #d1c5c5;
+}
